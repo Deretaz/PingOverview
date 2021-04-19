@@ -1,0 +1,14 @@
+{
+    "name" : "ping_overview",
+    "version" : 1.4,
+    "beeping" : true,
+    "beeping_time_between" : 60000,
+    "beeping_freq" : 2000,
+    "beeping_duration" : 250,
+    "data" : [
+        {
+            "hostname": "google.de",
+            "ping_rate": 1000
+        }
+    ]
+}

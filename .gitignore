@@ -1,0 +1,6 @@
+/.vscode
+/build
+/data.json
+/dist
+/PingOverview.spec
+/__pycache__
